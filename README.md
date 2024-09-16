@@ -9,7 +9,7 @@ I'm alumni of Higher School of Economics on Business-Informatics and currently s
 
 Creating Telegram Bots, writing some code.
 
-##Experience
+## Experience
 
 Product Management
 Agile Methodologies
@@ -25,7 +25,7 @@ FinTech products are my passion.
 
 Translating user needs into successful products is my forte 😊
 
-##In my portfolio:
+## In my portfolio:
 
 TalentPay platform
 Investment Analysis Tool
