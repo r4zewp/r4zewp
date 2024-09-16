@@ -11,25 +11,26 @@ Creating Telegram Bots, writing some code.
 
 ## Experience
 
-Product Management
-Agile Methodologies
-User Experience (UX) Design
-Market Research
-Roadmap Planning
-Stakeholder Communication
-Data Analysis
-Jira
-Confluence
-Figma and much more.
-FinTech products are my passion.
+- Product Management
+- Agile Methodologies
+- User Experience (UX) Design
+- Market Research
+- Roadmap Planning
+- Stakeholder Communication
+- Data Analysis
+- Jira
+- Confluence
+- Figma and much more.
 
-Translating user needs into successful products is my forte 😊
+_FinTech products are my passion._
+
+_Translating user needs into successful products is my forte 😊_
 
 ## In my portfolio:
 
-TalentPay platform
-Investment Analysis Tool
-Personal Finance Tracker
-Student Financial Planner app
-Budgeting Assistant
+- TalentPay platform
+- Investment Analysis Tool
+- Personal Finance Tracker
+- Student Financial Planner app
+- Budgeting Assistant
 Have a good day!
