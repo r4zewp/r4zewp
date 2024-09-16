@@ -1,43 +1,36 @@
-### 👋 Hi, I’m @r4zewp
+👋 Hi, I'm @r4zewp
+I'm alumni of Higher School of Economics on Business-Informatics and currently studying on Masters in HSE.
 
-I've been studying in Higher School of Economics (Moscow, Russia) for 3,5 years. Originally from Tashkent, Uzbekistan.
+My very first Product Management experience was in early 2020, leading to the creation of a "Student Financial Planner" app.
 
-My very first Flutter experience was in late 2019 leading to "Labor exchange app for students only" app creation.
+From 2021 to late 2021, I collaborated with my own team on projects like a Personal Finance Tracker, an Investment Analysis Tool, and a Budgeting Assistant.
 
-From 2020 to late 2021 had been developing some projects with my own team: E-Shop (Flutter web), E-Commerce platform (Flutter web), Quiz app.
+Starting from November 2022 up to now, I work on developing innovative financial solutions at a FinTech startup called TalentPay. We're working on payroll platfrom for contractors from all over the world.
 
-Starting from Nov 2021 to Dec 2022, had been working on "Social media app" creation in startup called "Notos" (https://notos.me). Some things went wrong and development was freezed for unknown period
+Creating Telegram Bots, writing some code.
 
-Now (Jan 2023) I'm looking forward to create something special in fast-growing startup or company that needs my help <3 
-
-### Experience
+Experience
 My experience
-- Flutter, 
-- Dart, 
-- Git,
-- Firebase, 
-- MongoDB, 
-- sqflite, 
-- Hive, 
-- Flutter Secure Storage, 
-- shared preferences,
-- dio, 
-- http
-- BLoC, 
-- Cubit, 
-- Redux, 
-- Provider 
-and much more,
 
-REST-API based apps are common thing for me.
+Product Management
+Agile Methodologies
+User Experience (UX) Design
+Market Research
+Roadmap Planning
+Stakeholder Communication
+Data Analysis
+Jira
+Confluence
+Figma and much more.
+FinTech products are my passion.
 
-MVC, MVVM patterns is not something infamiliar for me. CA is my best friend :)
+Translating user needs into successful products is my forte 😊
 
 In my portfolio:
-- Social media app.
-- Quiz app.
-- Labor exchange app for students only.
-- E-Shop => Flutter web.
-- E-Commerce platform => Flutter web.
 
-### Have a good day!
+TalentPay platform
+Investment Analysis Tool
+Personal Finance Tracker
+Student Financial Planner app
+Budgeting Assistant
+Have a good day!
