@@ -1,6 +1,6 @@
 # **Tigran Arustamov**  
 *Business Analyst | Product Manager | Business Intelligence Specialist*  
-**Email:** tvarustamov | **LinkedIn:** kedin.com/in/tigranarustamov | **Location:** Estonia  
+**Email:** tvarustamov | **LinkedIn:** linkedin.com/in/tigranarustamov | **Location:** Estonia  
 
 ---
 
