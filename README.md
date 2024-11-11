@@ -1,36 +1,59 @@
-👋 Hi, I'm @r4zewp
-I'm alumni of Higher School of Economics on Business-Informatics and currently studying on Masters in HSE.
+**Career Objective**
 
-- My very first Product Management experience was in early 2020, leading to the creation of a "Student Financial Planner" app.
+Data-driven and results-oriented Business Analyst with over 3 years of experience in requirements gathering, process optimization, and business intelligence. Successfully managed projects that increased operational efficiency by over 400%, drove platform growth by 100%, and enhanced financial accuracy by 15%. Skilled in delivering scalable, client-focused solutions in B2B environments. Seeking to leverage technical and analytical expertise to drive measurable growth and innovation.
 
-- From the beginning of 2021 to late 2021, I collaborated with my own team on projects like a Personal Finance Tracker, an Investment Analysis Tool, and a Budgeting Assistant.
+**Professional Experience**
 
-- Starting from November 2022 up to now, I work on developing innovative financial solutions at a FinTech startup called TalentPay. We're working on payroll platfrom for contractors from all over the world.
+**Business Analyst**  
+*Talentpay, Estonia*  
+*Jan 2023 – Present*
 
-Creating Telegram Bots, writing some code.
+- **Requirements Gathering and Analysis:** Captured and analyzed business requirements across multiple stakeholders, contributing to the successful delivery of projects impacting over 1,000 contractors and users.
+- **Process Optimization:** Designed and automated workflows for the outstaffing department, scaling throughput by 400% (from ~200 to ~1,000 contractors) and reducing manual intervention by 30%.
+- **BI Tools Implementation:** Built 10+ dashboards in Power BI and Apache Superset to monitor KPIs, improving data accessibility and decision-making speed by 30%.
+- **Platform Development:** Managed the full lifecycle of Talentpay’s PaaS platform, doubling user engagement to 1,000 active users. Delivered an MVP within 3 months using low-code tools (Airtable, Zapier, n8n), then migrated to a scalable tech stack, supporting 100% growth in user base.
+- **Automation Solutions:** Developed automated e-signature and document generation workflows, reducing document processing time by 50% and enabling compliance for over 5,000 transactions annually.
+- **Financial Reporting:** Automated profit and loss (P&L) tracking and expense management, reducing reporting errors by 15% and manual effort by 25%.
+- **Cross-Functional Collaboration:** Coordinated with DevOps, Sales, and Client Management teams during platform migration, maintaining a 95% client retention rate and improving client satisfaction scores by 20%.
+- **Client-Centric Solutions:** Tailored platform features based on client feedback, increasing overall user satisfaction and loyalty within the B2B segment.
 
-## Experience
+**Education**
 
-- Product Management
-- Agile Methodologies
-- User Experience (UX) Design
-- Market Research
-- Roadmap Planning
-- Stakeholder Communication
-- Data Analysis
-- Jira
-- Confluence
-- Figma and much more.
+- **Bachelor’s Degree in Business Informatics**  
+  *Higher School of Economics, Moscow, Russia*  
+  *Expected Graduation: 2024*
 
-_FinTech products are my passion._
+- **Master’s Degree in E-Commerce**  
+  *Higher School of Economics, Moscow, Russia*  
+  *Expected Graduation: 2026*
 
-_Translating user needs into successful products is my forte 😊_
+**Skills**
 
-## In my portfolio:
+- **Business Analysis:** Requirements elicitation, stakeholder engagement, functional specification documentation, and gap analysis.
+- **Process Optimization:** Workflow redesign, automation tools implementation, and process efficiency improvements.
+- **Business Intelligence:** Expertise in Power BI, Apache Superset, SQL, and Tableau for dashboard creation and analytics.
+- **Technical Tools:** JIRA, Confluence, Airtable, Zapier, n8n, and Microsoft Office Suite.
+- **Financial Analysis:** P&L management, expense tracking, KPI reporting, and automated financial workflows.
+- **Project Management:** Agile methodologies (Scrum, Kanban), backlog prioritization, and sprint planning.
+- **Soft Skills:** Critical thinking, problem-solving, communication, adaptability, and stakeholder collaboration.
 
-- TalentPay platform
-- Investment Analysis Tool
-- Personal Finance Tracker
-- Student Financial Planner app
-- Budgeting Assistant
-Have a good day!
+**Certifications**
+
+- **Entry Certificate in Business Analysis™ (ECBA™)**  
+  *International Institute of Business Analysis (IIBA®)*  
+  *Issued: [Month, Year]*  
+  *Credential ID: [ID Number]*
+
+- **Agile Analysis Certification (IIBA®-AAC)**  
+  *International Institute of Business Analysis (IIBA®)*  
+  *Issued: [Month, Year]*  
+  *Credential ID: [ID Number]*
+
+- **Microsoft Certified: Power BI Data Analyst Associate**  
+  *Microsoft*  
+  *Issued: [Month, Year]*  
+  *Credential ID: [ID Number]*
+
+**References**
+
+Available upon request.
