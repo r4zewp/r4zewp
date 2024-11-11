@@ -37,23 +37,6 @@ Data-driven and results-oriented Business Analyst with over 3 years of experienc
 - **Project Management:** Agile methodologies (Scrum, Kanban), backlog prioritization, and sprint planning.
 - **Soft Skills:** Critical thinking, problem-solving, communication, adaptability, and stakeholder collaboration.
 
-**Certifications**
-
-- **Entry Certificate in Business Analysis™ (ECBA™)**  
-  *International Institute of Business Analysis (IIBA®)*  
-  *Issued: [Month, Year]*  
-  *Credential ID: [ID Number]*
-
-- **Agile Analysis Certification (IIBA®-AAC)**  
-  *International Institute of Business Analysis (IIBA®)*  
-  *Issued: [Month, Year]*  
-  *Credential ID: [ID Number]*
-
-- **Microsoft Certified: Power BI Data Analyst Associate**  
-  *Microsoft*  
-  *Issued: [Month, Year]*  
-  *Credential ID: [ID Number]*
-
 **References**
 
 Available upon request.
