@@ -79,6 +79,15 @@ Results-driven Business Analyst with over 3 years of experience delivering data-
 
 ---
 
+## **Hobbies & Interests**
+
+- **Esports Leadership**: Served as the In-Game Leader (IGL) of a university esports team for 3 years, participating in student leagues and European semi-pro championships.  
+- **Academic Assistance**: Supported my academic advisor as an official assistant, evaluating coursework for younger students and mentoring them on improvement.  
+- **Technology and Science Enthusiast**: Passionate about astronomy and emerging technologies. Regularly explore and evaluate new tech innovations for potential applications in professional projects.  
+- **Coding and Automation**: Enjoy coding small projects, experimenting with automation tools, and finding ways to streamline processes in both personal and professional contexts.  
+
+---
+
 ## **Languages**
 
 - English: Advanced (C1)  
