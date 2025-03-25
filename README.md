@@ -1,12 +1,12 @@
 # **Tigran Arustamov**  
-*Business Analyst | Product Manager | Business Intelligence Specialist*  
+*Fullstack analytic | Product Manager | Business Intelligence Specialist*  
 **Email:** tvarustamov | **LinkedIn:** linkedin.com/in/tigranarustamov | **Location:** Estonia  
 
 ---
 
 ## **Professional Summary**
 
-Results-driven Business Analyst with over 3 years of experience delivering data-driven solutions, process automation, and business intelligence insights. Proven track record of scaling operational efficiency by 400%, driving platform growth by 80%, and enhancing financial accuracy by 13%. Expert in requirements elicitation, workflow redesign, and BI tools implementation, with a focus on measurable growth and client satisfaction in B2B environments.
+Results-driven Fullstack Analyst with over 3 years of experience delivering data-driven solutions, process automation, and business intelligence insights. Proven track record of scaling operational efficiency by 400%, driving platform growth by 80%, and enhancing financial accuracy by 13%. Expert in requirements elicitation, workflow redesign, and BI tools implementation, with a focus on measurable growth and client satisfaction in B2B environments.
 
 ---
 
