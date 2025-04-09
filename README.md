@@ -18,7 +18,7 @@ I'm a results-driven product and data specialist with 3+ years of experience bui
 - Building analytical models to support business decisions.
 - Collaborating with cross-functional teams to deliver impactful insights and improve financial services.
 
-### 🛠 Business Analyst @ Talentpay | *Jan 2023 – Present*
+### 🛠 Business Analyst @ Talentpay | *Jan 2023 – Apr 2025*
 Talentpay is a payroll and outstaffing platform used by 5+ IT companies across Europe.
 
 #### 🚀 Project Delivery
