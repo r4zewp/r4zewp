@@ -1,100 +1,95 @@
-# **Tigran Arustamov**  
-*Fullstack analytic | Product Manager | Business Intelligence Specialist*  
-**Email:** tvarustamov | **LinkedIn:** linkedin.com/in/tigranarustamov | **Location:** Estonia  
+# Hi there, I'm Tigran Arustamov 👋
+
+🎯 **Fullstack Analyst** | 🧠 **Product Manager** | 📊 **Business Intelligence Specialist**  
+📍 Estonia | 📧 tvarustamov | [LinkedIn](https://linkedin.com/in/tigranarustamov)
 
 ---
 
-## **Professional Summary**
+## 👨‍💻 About Me
 
-Results-driven Fullstack Analyst with over 3 years of experience delivering data-driven solutions, process automation, and business intelligence insights. Proven track record of scaling operational efficiency by 400%, driving platform growth by 80%, and enhancing financial accuracy by 13%. Expert in requirements elicitation, workflow redesign, and BI tools implementation, with a focus on measurable growth and client satisfaction in B2B environments.
-
----
-
-## **Professional Experience**
-
-### **Business Analyst**  
-*Talentpay, Estonia*  
-*Jan 2023 – Present*
-
-#### **Project Delivery**
-- Captured and analyzed business requirements across multiple stakeholders, contributing to projects that impacted over 1,000 contractors and users.  
-- Delivered an MVP for Talentpay’s PaaS platform within 3 months using low-code tools (Airtable, Zapier, n8n), later migrating to a scalable tech stack.
-- 
-#### **Process Optimization**
-- Designed and automated workflows for the outstaffing department, scaling throughput by 400% (from ~200 to ~1,000 contractors) and reducing manual intervention by 40%.  
-- Automated e-signature and document generation workflows, reducing document processing time by 50% and enabling compliance for over 5,000 transactions annually.
-- Automated profit and loss (P&L) tracking and expense management, reducing reporting errors by 15% and manual effort by 25%.
-
-#### **Business Intelligence**
-- Built 10+ dashboards in Power BI and Apache Superset to monitor KPIs, improving data accessibility and decision-making speed by 30%.
-- Streamlined key metrics to monitor core outstaffing department processes (signature rate, payment statuses etc.) providing back-office with opportunity to address issues immediately.
-
-
-#### **Client-Centric Solutions**
-- Tailored platform features based on client feedback, increasing user satisfaction and loyalty in the B2B segment.
-- Conducted surveys, researches on users to improve platform according to users' actual problems.  
-- Coordinated with DevOps, Sales, and Client Management teams during platform migration, achieving a 95% client retention rate and a 20% improvement in client satisfaction scores.
+I'm a results-driven product and data specialist with 3+ years of experience building digital solutions that scale. My career spans from **automating business processes** and **designing data pipelines**, to **shaping products in fast-paced B2B environments**. With a unique blend of business analysis, low-code implementation, and BI skills, I turn complex data into actionable insights — driving growth, efficiency, and client satisfaction.
 
 ---
 
-## **Education**
+## 🚀 Current Roles
 
-- **Bachelor’s Degree in Business Informatics**  
-  *Higher School of Economics, Moscow, Russia*  
-  *Expected Graduation: 2024*  
+### 🏦 Analyst @ Tinkoff (T-Bank) | *Apr 2025 – Present*
+- Working on data-driven initiatives for a large-scale fintech ecosystem.
+- Building analytical models to support business decisions.
+- Collaborating with cross-functional teams to deliver impactful insights and improve financial services.
 
-- **Master’s Degree in E-Commerce**  
-  *Higher School of Economics, Moscow, Russia*  
-  *Expected Graduation: 2026*  
+### 🛠 Business Analyst @ Talentpay | *Jan 2023 – Present*
+Talentpay is a payroll and outstaffing platform used by 5+ IT companies across Europe.
 
-- Relevant Coursework:  
-  - Data Analysis for Business Decision-Making  
-  - Digital Process Optimization in Outstaffing Department
-  - Strategic consulting project for bigtech company 
+#### 🚀 Project Delivery
+- Led requirements gathering for cross-functional initiatives with 1,000+ users.
+- Delivered MVP for Talentpay’s PaaS using **Airtable**, **Zapier**, and **n8n**, later migrating to a full-scale architecture.
+  
+#### 🔁 Process Optimization
+- Automated document and e-signature workflows — reducing processing time by **50%**.
+- Scaled contractor processing from **~200 → 1,000** (+400%) through workflow redesign.
+- Reduced financial reporting errors by 15% via **automated P&L tracking**.
 
----
+#### 📊 Business Intelligence
+- Built 10+ dashboards in **Power BI** and **Apache Superset**.
+- Reduced decision-making time by 30% by improving metric visibility (e.g., signature rates, payment statuses).
 
-## **Skills**
-
-### **Business Analysis**
-- Requirements elicitation, stakeholder engagement, functional specification documentation, and gap analysis.
-
-### **Process Optimization**
-- Workflow redesign, automation tools implementation, and process efficiency improvements.
-
-### **Business Intelligence**
-- Expertise in Power BI, Apache Superset, SQL, and Tableau for dashboard creation and analytics.
-
-### **Technical Tools**
-- JIRA, Confluence, Airtable, Zapier, n8n, and Microsoft Office Suite.
-
-### **Financial Analysis**
-- P&L management, expense tracking, KPI reporting, and automated financial workflows.
-
-### **Project Management**
-- Agile methodologies (Scrum, Kanban), backlog prioritization, and sprint planning.
-
-### **Soft Skills**
-- Leadership, critical thinking, problem-solving, adaptability, communication, and stakeholder collaboration.
+#### 🤝 Client-Centric Product Work
+- Integrated user feedback loops, increasing satisfaction and retention.
+- Orchestrated platform migration with DevOps and Sales, achieving **95% client retention** and a **20% increase in CSAT**.
 
 ---
 
-## **Hobbies & Interests**
+## 🎓 Education
 
-- **Esports Leadership**: Served as the In-Game Leader (IGL) of a university esports team for 3 years, participating in student leagues and European semi-pro championships.  
-- **Academic Assistance**: Supported my academic advisor as an official assistant, evaluating coursework for younger students and mentoring them on improvement.  
-- **Technology and Science Enthusiast**: Passionate about astronomy and emerging technologies. Regularly explore and evaluate new tech innovations for potential applications in professional projects.  
-- **Coding and Automation**: Enjoy coding small projects, experimenting with automation tools, and finding ways to streamline processes in both personal and professional contexts.  
+**Master’s in E-Commerce & Digital Innovation**  
+Higher School of Economics, Moscow, *Expected 2026*
+
+**Bachelor’s in Business Informatics**  
+Higher School of Economics, Moscow, *Expected 2024*
+
+Relevant coursework:  
+- Data Analysis for Business Decisions  
+- Process Optimization in Outstaffing  
+- Strategic Consulting for BigTech  
 
 ---
 
-## **Languages**
+## 🛠 Skills
 
-- English: Advanced (C1)  
-- Russian: Native  
+**Business Analysis** – Stakeholder engagement, specs, user stories  
+**Process Optimization** – Workflow automation (Zapier, n8n, Airtable)
+**Team Code Stack** - PHP, Laravel, Filament, Sentry, MixPanel
+**BI & Analytics** – Power BI, Superset, Tableau, SQL  
+**Project Management** – Jira, Confluence, Agile (Scrum, Kanban)  
+**Finance Ops** – P&L automation, KPI dashboards  
+**Tools** – Postman, Swagger, Excel, Python (basic), GitHub
 
 ---
 
-## **References**
+## 🤹 Side Projects & Hobbies
 
-Available upon request.
+- 👾 **Esports Leadership**: 3 years as in-game leader (IGL) for a university CS:GO team, including European semi-pro championships.  
+- 🎓 **Mentoring**: Academic assistant, reviewed coursework, mentored junior students.  
+- 🔭 **Tech Explorer**: Astronomy geek, always chasing the next AI tool or automation hack.  
+- ⚙️ **Code Tinkerer**: Enjoy building small tools & bots for real-life problems.
+
+---
+
+## 🌍 Languages
+
+- English – Advanced (C1)
+- Spanish - Beginner 
+- Russian – Native
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to interesting projects, collaboration, or just a good chat on product, data, or tech.
+
+🔗 [LinkedIn](https://linkedin.com/in/tigranarustamov)  
+📧 Email: tvarustamov  
+🌐 GitHub: [@tigranarustamov](https://github.com/tigranarustamov)
+
+---
